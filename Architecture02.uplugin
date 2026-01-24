@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.2",
+	"VersionName": "2.0.3",
 	"FriendlyName": "Architecture + 02",
 	"Description": "",
 	"Category": "Modding",
@@ -18,7 +18,7 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.2"
+			"SemVersion": "^3.11.3"
 		},
 		{
 			"Name": "JeanMichelCommonlib",
@@ -26,6 +26,6 @@
 			"SemVersion": "2.0.0"
 		}
 	],
-	"SemVersion": "2.0.2",
+	"SemVersion": "2.0.3",
 	"GameVersion": ">=416835"
 }
